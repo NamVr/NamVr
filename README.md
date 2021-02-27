@@ -11,4 +11,4 @@ Welcome to my GitHub Profile! This is Naman Vrati, Owner of [NamVr Tech](https:/
 - 😄 Pronouns: Male, He/Him
 - ⚡ Fun fact: Nothing Funny, another 15 y/o kid coding, mainly web based things.
 
-More coming soon!
+## Working on an all purpose secret discord.js bot project!! 
