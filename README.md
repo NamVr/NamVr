@@ -2,8 +2,8 @@
 
 Welcome to my GitHub Profile! This is Naman Vrati, Owner of [NamVr Tech](https://namanvrati.cf) and it's alliance services.
 
-- 🔭 I’m currently working on: Nyaru Discord Bot, My Main Website.
-- 🌱 I’m currently learning: Python, PHP, API, AI-ML
+- 🔭 I’m currently working on: Nothing to be honest.
+- 🌱 I’m currently learning: Nothing to be honest.
 - 👯 I’m looking to collaborate on: Well nothing right now.
 - 🤔 I’m looking for help with: Nothing :)
 - 💬 Ask me about: Anything! Ding me on discord: allroundernaman#3915
